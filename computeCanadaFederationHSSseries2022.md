@@ -79,3 +79,100 @@ Question in slack channel
   - advantage because they have not been able to offer quick access (ex: grant time, extend capacity for purposeful opportunities)
 
 Further questions: [ask alliance](**ask-alliance-demandez-à-alliance**)
+
+## Une aventure numérique : Technologie et soutien de la fédération Calcul Canada pour l’avancement de la recherche
+
+Présenté par : Lydia Vermeyden et Megan Meredith-Lobay
+
+> Learn about the national digital infrastructure that is free to access  through the Compute Canada Federation (CCF) for academic researchers in  Canada! This workshop will begin with a short overview of the CCF’s  digital resources and user supports, including the expanding Humanities  and Social Science specific supports. It will continue with a discussion with participants about current applications and use cases for their  research areas and explore potential projects. This part of the session  will include live demos of applicable technologies, and a database  code-along!
+
+### Overview of the CCF’s  digital resources and user supports, including the expanding Humanities  and Social Science specific supports
+
+Compute Canada federation
+
+- not for profit organisation funded by CFI
+- privde essential digital infrastructure for industry and researchers in Canda
+
+regional consortia: respond to local needs, target training and support 
+
+#### Supporting research
+
+resources
+
+- high performance, big data and GPU computing
+- cloud environment dev space
+- terabytes of active data storage with secure backup systems
+- large file transfer portals
+
+services
+
+- training
+  - discipline specific training, national training
+  - high performance computing carpentry
+  - summer schools
+- centralized software stacks
+- nextcloud
+- specialized data portals
+- FRDR collaboration
+- globus file transfer
+- database as a service
+
+expertise 
+
+- consultation: helping to determine the resources needed
+- designing, optimizing and troubleshooting computer code
+- customizing tools
+- specialized support is available for a range of disciplines (including HSS)
+- visualization specialist
+- cybersecurity
+
+#### Getting access
+
+- resource allocations
+- services: CCF Wiki, disciplinary suppot
+- expertise: consortia website,...
+
+#### HSS Support
+
+- HSS Experts in WestGrid and Aceet
+- nation HSS team with domain and technical experts located at sites across the country
+- support for Digital humanities Summer Institute
+
+HSS National team
+
+- Félix-Antoine Fortin, U Laval
+
+- Mohammed Jabir, calculQuébec
+
+  
+
+[Software stack](https://docs.computecanada.ca/wiki/Available_software)
+
+- what's not on it, reach out and make a request, will depend on licensing
+- users: collaborators must be affiliated to a canadian university
+
+### Current applications and use cases for their research areas
+
+### Live demos of applicable technologies
+
+### Database code-along
+
+database as a service via ssh connexion
+
+mySQL hosted on the HSS team virtual machine on the cloud
+
+| IP          | username | password |
+| ----------- | -------- | -------- |
+| 206.12.93.3 | user18   | HSS2022  |
+
+#### SSH 
+
+```bash
+ssh username@ipAddress
+mysql -u username
+# now shows: `mysql>`
+
+```
+
+
+
