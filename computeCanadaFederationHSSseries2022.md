@@ -469,8 +469,6 @@ plan de succession pour les données
 
 
 
-
-
 ## Le pire qui peut arriver...Table ronde sur la gestion des données de recherche
 
 Le 24 février 2022, de 14 h 30 à 16 h HE
@@ -480,3 +478,63 @@ Animée par : Nick Rochlin. Membres de la table ronde : Craig Squires (En), Arun
 *Note* : Les discussions se tiendront en français et en anglais. Des services d’interprétation simultanée seront disponibles.
 
 > Pour discuter de comment se passe la  gestion des données de recherche dans la pratique, des membres de notre  équipe technique se joignent à des chercheuses et chercheurs dans une  table ronde où seront présentés des exemples concrets. On y parlera  surtout de situations inattendues qui peuvent se produire et causer des  problèmes de toutes sortes, même des histoires d’horreur! La rencontre  sera dirigée par Nick Rochlin, spécialiste en gestion des données de  recherche au campus Okanagan de l’Université de la Colombie-Britannique. N’hésitez pas à poser des questions sur vos cas particuliers en direct  ou en remplissant [ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLSdanlooKFdnaOsd1TIhLvt7-VXW-jg1IdCquC5inXjO1Pm60A/viewform?usp=sf_link). Bien sûr, vous pouvez vous joindre à nous si vous n’avez pas de questions!
+
+#### What's your data-horror story? 
+
+Maude: lack of control over every step when working with private compagny partnership
+
+Craig: omeka-s lack of metadata, happy ending: RDF
+
+Felicity: trying to set standards for a large partnership with over 20 institutions (oral web), ending up creating a document that "aligned" each institutional standards, but then that file temporarly was lost (personnel left and didn't forward the document link). Also, file name system for such a large data depot.
+
+Arun: complete thesis on USB that gets corrupted, best practices were not there yet
+
+#### What should we be doing? best practices... 
+
+Maude: documenter davantage les données
+
+Arun: best learning experiences have been through hacking, finding space for safe learning and experimentation
+
+Felicity: research being more that that one ending but the whole process and experience
+
+Craig: low-level documents → learning LateX, bibtext, gitlab and version control
+
+#### Practices within disciplines & data management
+
+Arun: practices issues and the human element, especially in collaboration. We need a better etiquette, how to's/wiki
+
+Felicity: creating common sets of practices
+
+Megan: DH → working with tools that were not designed for HSS, so we had to learn to "break" them and rebuild them for our use
+
+Craig: yet to find a really good tool to work with metadata management. Transparent developping of vocabulary and deployment of standard metadata
+
+Maude: on fait beaucoup de bricolage, importance des procédures. Avantage en anglais par rapport au milieu francophone: arrivée tardive des HN, qui aide beaucoup à développer des outils
+
+#### Current research data management issues
+
+Megan: données sociales produites sur le web ou par des communautés → issues de plateformes propriétaires
+
+Craig: tools that enable you to work the end of the research, now there are some about starting the research. Gap "in the middle": during data collection and analysis. Adequate tools that support 
+
+#### Ways around and to deal with decisions that are made by other platforms
+
+<!-- don't use proprietary platforms? doesn't solve it all and some research is depending on it, eg Maude-->
+
+Maude: indépendance scientifique et se dégager des outils propriétaires, produire une recherche plus indépendante, efficace et pérenne
+
+
+
+
+
+
+
+
+
+## Façonner l'avenir de l'infonuagique
+
+Le 25 février 2022, de 14 h 45 à 15 h 45 HE
+
+Pésenté par : Jeff Albert et Félix-Antoine Fortin
+
+> Jeff Albert, chef de l’équipe  infonuagique de la fédération Calcul Canada, expliquera comment le cloud peut être utilisé puis présentera des cas d’usage et des plateformes  pertinentes pour la recherche en sciences humaines et sociales. Il  donnera aussi un aperçu du travail de l’équipe nationale en ce qui a  trait au développement d’une nouvelle infrastructure et aux plateformes  et fonctionnalités qui seront éventuellement mises à la disposition de  la communauté de la recherche au Canada. Cette session est l’occasion de discuter des difficultés que pose l’accès à la technologie  infonuagique.
