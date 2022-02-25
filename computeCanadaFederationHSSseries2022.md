@@ -538,3 +538,73 @@ Le 25 février 2022, de 14 h 45 à 15 h 45 HE
 Pésenté par : Jeff Albert et Félix-Antoine Fortin
 
 > Jeff Albert, chef de l’équipe  infonuagique de la fédération Calcul Canada, expliquera comment le cloud peut être utilisé puis présentera des cas d’usage et des plateformes  pertinentes pour la recherche en sciences humaines et sociales. Il  donnera aussi un aperçu du travail de l’équipe nationale en ce qui a  trait au développement d’une nouvelle infrastructure et aux plateformes  et fonctionnalités qui seront éventuellement mises à la disposition de  la communauté de la recherche au Canada. Cette session est l’occasion de discuter des difficultés que pose l’accès à la technologie  infonuagique.
+
+### Infrastructure Infonuagique communautaire - présentation générale
+
+- infonuagique commercial : administré dans un but lucratif et rendu disponible à quiconque peut en payer les coûts (Amazon, Google, Microsoft Azure)
+- infonuagique privé : administré par une seule organisation, exclusivement pour ses besoins
+- infonuagique communautaire: administré par les membres d'une communauté pour leur bénéfice commun
+
+Qui peut demander des ressources info-nuagiques? chercheurs des institutions canadiennes
+
+- doit être éligible à des subventions FCI (car c'est financé par le FCI)
+- doit détenir un compte CalculCanada vérifiant l'afiliation avec l'institution
+
+Service d'accès rapide (SAR)
+
+- persistant = charge de travail continue (pas très intensif sur le calcul)
+  héberger applications etc.
+  - 25cpu
+  - 50Go RAM
+  - 10 instances (10 machines)
+- Calcul = charge de travail ponctuelle (partie qui requiert une machine beaucup de puissance de calcul)
+  - 80cpu
+  - 300Go RAM
+  - 20 instances
+- 10 To de stockage persistant 
+- 10To de système de fichier partagé
+- 10To de stockage objet compatbile s3 (accessible à partir des instances et **d'Internet**)
+
+Concours d'allocation de ressources
+
+- accéder à plus de ressources que le SAR
+
+### Questions - discussion
+
+Serveur de calcul vs serveur infonuagique
+
+- calcul: il faut définir la durée d'utilisation
+- infonuagique: 
+  - lève la contrainte du temps
+  - attention: moins performant
+  - déploie portails / applications / ... qui dessert une potentiellement plus grande communauté que "juste nous"
+
+comment bien estimer / évaluer les besoins? 
+
+- service d'accès rapide
+- instance redimensionnable à la volée, install sur une série de volumes. Changer l'instance (nombre de cœur et quantité de mémoire, remplacer en cours de route, tant que la config a été faite sur un volume persistant)
+
+How much maintenance/updates/security must we able to do ourselves, and how much will be offered in the community CFF cloud? 
+
+- for now: for individual responsability, consultation is available (general advice but no direct responsability)
+- platform as a service model: transition under way (defined by the alliance roadmap)
+  - not running our own systems but centrally manages
+  - focus on the software (infrastructure taken care of by CFF)
+  - in the next 2-3 years
+  - but what platform? will have to be seen
+
+Collaboration platforms
+
+Kubernetes as a service: 
+
+- deliver proof of concept this year
+
+
+
+[Jason Neelis]([jneelis@wlu.ca](mailto:jneelis@wlu.ca))
+
+- open seadragon
+- annotorious
+- recogito
+- READ work bench
+- 
