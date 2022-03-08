@@ -202,7 +202,7 @@ Utiliser les canaux slack pour discuter de nos projets
 
 ## Research Data Management for HSS: From Plan to Preservation, and (Almost) Everything in Between
 
-PDF: 
+PDF 
 
 February 24, 2022, 12:00-2:00pm ET
 

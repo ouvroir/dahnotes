@@ -18,7 +18,7 @@ Daniel Stubbs, CalculQuebec
 2. créer un compte
 3. accéder au compte
 4. transférer, installer, configurer
-5. exécuter une tâcje
+5. exécuter une tâche
 6. [rencontrer un problème]
 7. récupérer des résultats
 
@@ -74,7 +74,7 @@ renouvellement annuel du compte (confirmer les accès). Faire part des publicati
 - grappes nationales: niagara (conçu pour des grandes tâches parallèles, utilisation min de 1024 cœurs); accès général: cedar, graham, narval, béluga 
 - celle que notre groupe utilise déjà 
 - considérer la géographie pour minimiser un peu l'attente de connexion
-- écrire à CC
+- écrire à CC calcul informatique de pointe (CIP) 
 
 #### Se connecter à la grappe
 
@@ -86,7 +86,7 @@ connexion sur le nœud interactif (nœud frontal / de login) = accès direct, po
 
 nœuds de calcul = accès indirect, 
 
-à part cedar, on n'a pas accès à internet à partir des nœuds de calculs
+à part cedar, on n'a pas accès à internet à partir des nœuds de calculs calcul informatique de pointe (CIP) 
 
 Connexion à la grappe: 
 
@@ -108,7 +108,7 @@ Cœurs: narval --> 64 cœurs par nœud de calcul
 
 stockage: espace de stockage sur le nœud + espaces scratch et espace projet (1TB par défaut, peut être augmenté jusqu'à 10, puis allocations spéciales pour certains groupes)
 
-délais (accès) peut être 5secondes ou 10 jours
+délais (accès) peut être 5 secondes ou 10 jours
 
 #### Composantes d'un nœud
 
