@@ -63,7 +63,7 @@ freemium
 licence: 
 
 - MIT ideally
-- digital cooperative: vote with the collaborators. Prohibit big commercial companies from using for free? 
+- digital cooperative: vote with the collaborators. Prohibit big commercial companies from using it in a way? 
 
 each invite code after onboarding can be used 5 times
 
