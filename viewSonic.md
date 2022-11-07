@@ -1,5 +1,4 @@
 ---
-
 title: Webinaire ViewSonic
 description: présentations du ViewSonic
 author: ouvroir
