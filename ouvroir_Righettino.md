@@ -17,6 +17,7 @@ Emmanuel Château-Dutier et Denis Ribouillault
 
 Girolamo Righettino vénicien. Théologien, il est un chanoine du Latran, devient évêque, travaille à la défense de la chrétienté
 proche des cercles politiques vétiniens de son époque 
+
 - vue de Rome (description textuelle)//1585
 - vue de Turin (image) 1mx1m
 
