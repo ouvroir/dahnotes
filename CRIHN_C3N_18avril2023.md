@@ -17,7 +17,7 @@ Julien Schuh, Université Paris Nanterre, UMR LARCA, MSH Mondes
 
 émergence d'une mémoire artificelle qui redistribue les savoirs
 
-Boîte à outils d'intelligence artificelle
+[Boîte à outils](https://github.com/MODOAP?tab=repositories) d'intelligence artificelle
 
 Explorer les fonds Kagan à l'aide d'outils d'IA: le projet [ModOAP](https://modoap.huma-num.fr/)
 
