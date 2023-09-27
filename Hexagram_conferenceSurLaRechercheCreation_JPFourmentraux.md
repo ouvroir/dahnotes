@@ -37,7 +37,8 @@ Nouvelle figure de l'artiste (Pierre-Eliott Munger)
 - suivi de la «carrière» des œuvres, leurs modalités d'attribution et de valorisation
 
 ## Études de cas
-[Antoine Schmitt](https://en.wikipedia.org/wiki/Antoine_Schmitt), mode d'être algortihmique et comportement de programmes. Ingénieur programmeur, mais passage à l'art
+[Antoine Schmitt](https://en.wikipedia.org/wiki/Antoine_Schmitt), mode d'être algorithmique et comportement de programmes. Ingénieur programmeur, mais passage à l'art
+
 - collaboration avec danseurs
 - concerts dialogue programmation et musique (avec Franck Vigroux)
 Deux manières de se présenter: 
@@ -115,7 +116,7 @@ notion de frontière:
 - distinction préservée entre art et science, entre les discipline, entre les rôles (artiste, chercheur)
 - écriture alternative, espace alternatif
 - épaississement de la frontière? prendre le risque
-- affaire de contagion <!--aller voir l'Autre, avec un grand A. Quid de la mxitié, l'hybridité? -->
+- affaire de contagion <!--aller voir l'Autre, avec un grand A. Quid de la mixitié, l'hybridité? -->
 - organisations frontières
 - inertie disiciplinaire: changement de cursus univesité ←→ école d'art
 choses auxquelles on tient (imaginaire collectif à l'échelle disciplinaire?)
